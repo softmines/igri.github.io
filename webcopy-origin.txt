@@ -1,0 +1,80 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\site.verxmin.ru\ajax\libs\jquery\3.5.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://site.verxmin.ru/
+File Name: C:\Downloaded Web Sites\site.verxmin.ru\index.htm
+Content Type: text/html
+
+Uri: https://site.verxmin.ru/1.gif
+File Name: C:\Downloaded Web Sites\site.verxmin.ru\1.gif
+Content Type: image/gif
+
+Uri: https://site.verxmin.ru/1.png
+File Name: C:\Downloaded Web Sites\site.verxmin.ru\1.png
+Content Type: image/png
+
+Uri: https://site.verxmin.ru/2.png
+File Name: C:\Downloaded Web Sites\site.verxmin.ru\2.png
+Content Type: image/png
+
+Uri: https://site.verxmin.ru/3.png
+File Name: C:\Downloaded Web Sites\site.verxmin.ru\3.png
+Content Type: image/png
+
+Uri: https://site.verxmin.ru/4.png
+File Name: C:\Downloaded Web Sites\site.verxmin.ru\4.png
+Content Type: image/png
+
+Uri: https://site.verxmin.ru/5.png
+File Name: C:\Downloaded Web Sites\site.verxmin.ru\5.png
+Content Type: image/png
+
+Uri: https://site.verxmin.ru/6.png
+File Name: C:\Downloaded Web Sites\site.verxmin.ru\6.png
+Content Type: image/png
+
+Uri: https://site.verxmin.ru/fon.png
+File Name: C:\Downloaded Web Sites\site.verxmin.ru\fon.png
+Content Type: image/png
+
+Uri: https://site.verxmin.ru/game.png
+File Name: C:\Downloaded Web Sites\site.verxmin.ru\game.png
+Content Type: image/png
+
+Uri: https://site.verxmin.ru/gif.mp3
+File Name: C:\Downloaded Web Sites\site.verxmin.ru\gif.mp3
+Content Type: audio/mpeg
+
+Uri: https://site.verxmin.ru/inst1.png
+File Name: C:\Downloaded Web Sites\site.verxmin.ru\inst1.png
+Content Type: image/png
+
+Uri: https://site.verxmin.ru/inst2.png
+File Name: C:\Downloaded Web Sites\site.verxmin.ru\inst2.png
+Content Type: image/png
+
+Uri: https://site.verxmin.ru/intro.otf
+File Name: C:\Downloaded Web Sites\site.verxmin.ru\intro.otf
+Content Type: application/octet-stream
+
+Uri: https://site.verxmin.ru/logo.jpg
+File Name: C:\Downloaded Web Sites\site.verxmin.ru\logo.jpg
+Content Type: image/jpeg
+
+Uri: https://site.verxmin.ru/money.png
+File Name: C:\Downloaded Web Sites\site.verxmin.ru\money.png
+Content Type: image/png
+
+Uri: https://site.verxmin.ru/penafon.png
+File Name: C:\Downloaded Web Sites\site.verxmin.ru\penafon.png
+Content Type: image/png
+
+Uri: https://site.verxmin.ru/secret.png
+File Name: C:\Downloaded Web Sites\site.verxmin.ru\secret.png
+Content Type: image/png
+
+Uri: https://site.verxmin.ru/tg.png
+File Name: C:\Downloaded Web Sites\site.verxmin.ru\tg.png
+Content Type: image/png
+
