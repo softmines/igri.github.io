@@ -1,0 +1,24 @@
+Uri: https://brawlpir.verxmin.ru/
+File Name: C:\Users\Użytkownik\Desktop\верстка\brawlpir.verxmin.ru\index.htm
+Content Type: text/html
+
+Uri: https://brawlpir.verxmin.ru/1.jpg
+File Name: C:\Users\Użytkownik\Desktop\верстка\brawlpir.verxmin.ru\1.jpg
+Content Type: image/jpeg
+
+Uri: https://brawlpir.verxmin.ru/1.png
+File Name: C:\Users\Użytkownik\Desktop\верстка\brawlpir.verxmin.ru\1.png
+Content Type: image/png
+
+Uri: https://brawlpir.verxmin.ru/3.png
+File Name: C:\Users\Użytkownik\Desktop\верстка\brawlpir.verxmin.ru\3.png
+Content Type: image/png
+
+Uri: https://brawlpir.verxmin.ru/intro.otf
+File Name: C:\Users\Użytkownik\Desktop\верстка\brawlpir.verxmin.ru\intro.otf
+Content Type: application/octet-stream
+
+Uri: https://brawlpir.verxmin.ru/tg.svg
+File Name: C:\Users\Użytkownik\Desktop\верстка\brawlpir.verxmin.ru\tg.svg
+Content Type: image/svg+xml
+
